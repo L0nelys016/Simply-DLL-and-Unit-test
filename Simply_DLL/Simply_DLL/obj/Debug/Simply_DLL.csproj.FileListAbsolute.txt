@@ -1,0 +1,6 @@
+A:\Visual Studio Sourse\Simply_DLL\Simply_DLL\bin\Debug\Simply_DLL.dll
+A:\Visual Studio Sourse\Simply_DLL\Simply_DLL\bin\Debug\Simply_DLL.pdb
+A:\Visual Studio Sourse\Simply_DLL\Simply_DLL\obj\Debug\Simply_DLL.csproj.AssemblyReference.cache
+A:\Visual Studio Sourse\Simply_DLL\Simply_DLL\obj\Debug\Simply_DLL.csproj.CoreCompileInputs.cache
+A:\Visual Studio Sourse\Simply_DLL\Simply_DLL\obj\Debug\Simply_DLL.dll
+A:\Visual Studio Sourse\Simply_DLL\Simply_DLL\obj\Debug\Simply_DLL.pdb
